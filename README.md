@@ -20,4 +20,3 @@ Once you have finished solving the exercises, be sure to commit your changes, pu
 
 Once you start working on the project, you will see a `./notebook/problems.ipynb` file containing a list of exercises. Complete each of them, one by one.
 
-Note: We also incorporated a `./notebook/solutions.ipynb` file that we strongly suggest you only use if you are stuck for more than 30min or if you have already finished and want to compare it with your approach.
